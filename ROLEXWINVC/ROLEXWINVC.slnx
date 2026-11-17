@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ROLEXWINVC.vcxproj" Id="49f41d96-c24f-4eae-b681-b43fa7f3f342" />
+</Solution>
