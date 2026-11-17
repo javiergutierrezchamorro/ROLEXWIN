@@ -4,6 +4,9 @@
 
 A native Win32/Win64 application that renders a realistic Rolex Datejust with authentic baton hands, cyclops date magnification, and a mechanical tick-tock sound at **28,800 bph**.
 
+<img width="500" height="974" alt="image" src="https://github.com/user-attachments/assets/3e418c16-0401-4dbd-ad76-696a668d84e9" />
+
+
 ## Features
 
 - Authentic **baton hands** with Chromalight-style lume (metal tip → lume channel → metal base)
